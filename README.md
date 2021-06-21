@@ -4,10 +4,10 @@
 
 
 
-- 🔭 I’m currently working on Kyung Hee University(Master course for Bigdata Analysis)
-- 🔭 I graduated Konkuk Univ(Department of Software Engineering) and was intern for PeopleSpace and Microsoft Korea
-- 🌱 I’m currently learning Big data engineering and Recommender system
-- 👯 I’m looking to collaborate on anyone who interested in machine learning
+- 🔭 I’m currently working on Kyung Hee University(Master course for Big data Analysis, Dongdaemun-gu, Seoul)
+- 🔭 I graduated Konkuk University(Department of Software Engineering) and was intern for PeopleSpace(Irvine, CA) and Microsoft Korea(Jongro-gu, Seoul)
+- 🌱 I’m currently learning Data engineering and Recommender system
+- 👯 I’m looking to collaborate on anyone who interested in machine learning & Deep Learning
 - 📫 How to reach me: rediate03@gmail.com, jihoahn9303@naver.com
 - ⚡ Hobby : Watch movies in Netfilx, play overwatch/Apex/Valorant, Go to EDM Festival, Running with my family
 - ⚡ Funny things : I dropped my overwatch grand master rank to diamond in just one month (4100 -> 3200) ......
@@ -45,6 +45,8 @@ Contains :
 [[Python] Introduce how to use tensorflow](https://github.com/jihoahn9303/tensorflow_manual)
 
 [[Python] Concept for Machine Learning](https://github.com/jihoahn9303/Machine_Learning)
+
+[[Python] DL Manipulation using Tensorflow](https://github.com/jihoahn9303/DL_Network_Manipulation)
 
 [[JAVA] Make Auction System using CM Library(Konkuk Univ.)](https://github.com/jihoahn9303/CMproject-Konkuk-Univ)
 
