@@ -1,19 +1,10 @@
 ### Hi there 👋
 
-<!--
-**jihoahn9303/jihoahn9303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Kyung Hee University(Master course for Bigdata Analysis)
+- 🌱 I’m currently learning Big data engineering and Recommender system
+- 👯 I’m looking to collaborate on anyone who interested in machine learning
+- 📫 How to reach me: rediate03@gmail.com, jihoahn9303@naver.com
+- ⚡ Hobby : Watch movies in Netfilx, play overwatch/Apex/Valorant, Go to EDM Festival, Running with my family
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjihoahn9303&count_bg=%233D41C8&title_bg=%23555555&icon=greensock.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -24,7 +15,8 @@ Here are some ideas to get you started:
 
 
 
-Contains : 
+Contains :
+
 [[Python] Semantic Human Matting](https://github.com/jihoahn9303/Semantic_Human_Matting_Project)
 
 [[Python] Kaggle - Home Credit Default Risk](https://github.com/jihoahn9303/home-credit-default-risk)
