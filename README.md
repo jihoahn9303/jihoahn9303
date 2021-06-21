@@ -24,3 +24,10 @@ Here are some ideas to get you started:
 
 
 
+[[Python] Semantic Human Matting](https://github.com/jihoahn9303/Semantic_Human_Matting_Project)
+[[Python] Kaggle - Home Credit Default Risk](https://github.com/jihoahn9303/home-credit-default-risk)
+[[Python] Introduce how to use tensorflow](https://github.com/jihoahn9303/tensorflow_manual)
+[[Python] Concept for Machine Learning](https://github.com/jihoahn9303/Machine_Learning)
+[[JAVA] Make Auction System using CM Library(Konkuk Univ.)](https://github.com/jihoahn9303/CMproject-Konkuk-Univ)
+[[Kotlin/Python] Construct SmartCafe](https://github.com/jihoahn9303/GraduationProject)
+
