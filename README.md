@@ -5,6 +5,7 @@
 
 
 - 🔭 I’m currently working on Kyung Hee University(Master course for Bigdata Analysis)
+- 🔭 I graduated Konkuk Univ(Department of Software Engineering) and was intern for PeopleSpace and Microsoft Korea
 - 🌱 I’m currently learning Big data engineering and Recommender system
 - 👯 I’m looking to collaborate on anyone who interested in machine learning
 - 📫 How to reach me: rediate03@gmail.com, jihoahn9303@naver.com
