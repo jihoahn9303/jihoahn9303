@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m going to work on Kyung Hee University(Master course for Big data Analysis, Dongdaemun-gu, Seoul)
+- 🔭 I’m working at AI Business Research Center in Kyung Hee University(Master course for Big data Analysis, Dongdaemun-gu, Seoul)
 - 🔭 I graduated Konkuk University(Department of Software Engineering) and was intern for PeopleSpace(Irvine, CA) and Microsoft Korea(Jongro-gu, Seoul)
 - 🌱 I’m currently learning Data engineering & Analysis and Recommender system
 - 👯 I’m looking to collaborate on anyone who is interested in machine learning & Deep Learning
