@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hello! Well come to jiho's world! 👋
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjihoahn9303&count_bg=%233D41C8&title_bg=%23555555&icon=greensock.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 
 - 🔭 I’m working at AI Business Research Center in Kyung Hee University(Master course for Big data Analysis, Dongdaemun-gu, Seoul)
-- 🔭 I graduated Konkuk University(Department of Software Engineering) and was intern for PeopleSpace(Irvine, CA) and Microsoft Korea(Jongro-gu, Seoul)
+- 🔭 I graduated Konkuk University(Department of Software Engineering, Gwangjin-gu, Seoul) and was intern for PeopleSpace(Irvine, CA)
 - 🌱 I’m currently learning Data engineering & Analysis and Recommender system
 - 👯 I’m looking to collaborate on anyone who is interested in machine learning & Deep Learning
 - 📫 How to reach me: rediate03@gmail.com, jihoahn9303@naver.com
