@@ -4,8 +4,8 @@
 
 
 
-- 🔭 I’m working at AI Business Research Center in Kyung Hee University(Master course for Big data Analysis, Dongdaemun-gu, Seoul)
-- 🔭 I graduated Konkuk University(Department of Software Engineering, Gwangjin-gu, Seoul) and was intern for PeopleSpace(Irvine, CA)
+- 🔭 I’m working at AI Business Research Center in Kyung Hee University(Dongdaemun-gu, Seoul)
+- 🔭 I graduated Konkuk University(Department of Software Engineering, Gwangjin-gu, Seoul) and was intern for PeopleSpace(Irvine, CA, USA)
 - 🌱 I’m currently learning Data engineering & Analysis and Recommender system
 - 👯 I’m looking to collaborate on anyone who is interested in machine learning & Deep Learning
 - 📫 How to reach me: rediate03@gmail.com, jihoahn9303@naver.com
