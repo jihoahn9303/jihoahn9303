@@ -52,3 +52,10 @@ Contains :
 
 [[Kotlin/Python] Construct SmartCafe](https://github.com/jihoahn9303/GraduationProject)
 
+
+
+Paper list:
+
+[Analysis of length of stay for patients admitted to Korean hospitals based on the Korean National Health Insurance Service Database](https://www.sciencedirect.com/science/article/pii/S2352914823000205)
+
+[Development and Evaluation of Machine Learning-Based High-Cost Prediction Model Using Health Check-Up Data by the National Health Insurance Service of Korea](https://www.mdpi.com/1660-4601/19/20/13672)
