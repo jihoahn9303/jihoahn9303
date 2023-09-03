@@ -42,7 +42,7 @@ Contains :
 
 [[Python] Kaggle - Home Credit Default Risk](https://github.com/jihoahn9303/home-credit-default-risk)
 
-[[Python] Introduce how to use tensorflow](https://github.com/jihoahn9303/tensorflow_manual)
+[[Python] ISCLRec](https://github.com/jihoahn9303/lSCLRec)
 
 [[Python] Concept for Machine Learning](https://github.com/jihoahn9303/Machine_Learning)
 
