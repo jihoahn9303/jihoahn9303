@@ -42,7 +42,7 @@ Contains :
 
 [[Python] Kaggle - Home Credit Default Risk](https://github.com/jihoahn9303/home-credit-default-risk)
 
-[[Python] ISCLRec](https://github.com/jihoahn9303/lSCLRec)
+[[Python] ISCLRec(Item Substitution Contrastive Learning Recommendation)](https://github.com/jihoahn9303/lSCLRec)
 
 [[Python] Concept for Machine Learning](https://github.com/jihoahn9303/Machine_Learning)
 
