@@ -38,15 +38,15 @@
 
 ### Contains :
 
-[[Python] Semantic Human Matting](https://github.com/jihoahn9303/Semantic_Human_Matting_Project)
-
-[[Python] Kaggle - Home Credit Default Risk](https://github.com/jihoahn9303/home-credit-default-risk)
+[[Python] Vision end-to-end](https://github.com/jihoahn9303/Vision_end_to_end)
 
 [[Python] ISCLRec(Item Substitution Contrastive Learning Recommendation)](https://github.com/jihoahn9303/lSCLRec)
 
-[[Python] Concept for Machine Learning](https://github.com/jihoahn9303/Machine_Learning)
+[[Python] Kaggle - Home Credit Default Risk](https://github.com/jihoahn9303/home-credit-default-risk)
 
-[[Python] Vision end-to-end](https://github.com/jihoahn9303/Vision_end_to_end)
+[[Python] Semantic Human Matting](https://github.com/jihoahn9303/Semantic_Human_Matting_Project)
+
+[[Python] Concept for Machine Learning](https://github.com/jihoahn9303/Machine_Learning)
 
 [[JAVA] Make Auction System using CM Library(Konkuk Univ.)](https://github.com/jihoahn9303/CMproject-Konkuk-Univ)
 
