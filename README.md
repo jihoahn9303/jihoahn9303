@@ -46,7 +46,7 @@
 
 [[Python] Concept for Machine Learning](https://github.com/jihoahn9303/Machine_Learning)
 
-[[Python] Vision](https://github.com/jihoahn9303/VisionGroomata)
+[[Python] Vision end-to-end](https://github.com/jihoahn9303/Vision_end_to_end)
 
 [[JAVA] Make Auction System using CM Library(Konkuk Univ.)](https://github.com/jihoahn9303/CMproject-Konkuk-Univ)
 
