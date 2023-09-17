@@ -38,19 +38,22 @@
 
 ### Contains :
 
-[[Python] Vision end-to-end](https://github.com/jihoahn9303/Vision_end_to_end)
+[[Python] Project: Vision end-to-end](https://github.com/jihoahn9303/Vision_end_to_end)
 
-[[Python] ISCLRec(Item Substitution Contrastive Learning Recommendation)](https://github.com/jihoahn9303/lSCLRec)
+[[Python] Project: FNCSP Consulting Platfrom](https://github.com/jihoahn9303/FNCSP_Consulting_Platform)
 
-[[Python] Kaggle - Home Credit Default Risk](https://github.com/jihoahn9303/home-credit-default-risk)
+[[Python] Project: Semantic Human Matting](https://github.com/jihoahn9303/Semantic_Human_Matting_Project)
 
-[[Python] Semantic Human Matting](https://github.com/jihoahn9303/Semantic_Human_Matting_Project)
+[[Python] Project: Kaggle - Home Credit Default Risk](https://github.com/jihoahn9303/home-credit-default-risk)
+
+[[Kotlin/Python] Project: Construct SmartCafe](https://github.com/jihoahn9303/GraduationProject)
+
+[[Python] Research: ISCLRec(Item Substitution Contrastive Learning Recommendation)](https://github.com/jihoahn9303/lSCLRec)
 
 [[Python] Concept for Machine Learning](https://github.com/jihoahn9303/Machine_Learning)
 
-[[JAVA] Make Auction System using CM Library(Konkuk Univ.)](https://github.com/jihoahn9303/CMproject-Konkuk-Univ)
 
-[[Kotlin/Python] Construct SmartCafe](https://github.com/jihoahn9303/GraduationProject)
+
 
 
 
