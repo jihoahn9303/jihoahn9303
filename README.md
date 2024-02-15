@@ -9,6 +9,7 @@
 - 🌱 I’m currently learning Data engineering & Analysis and Recommender system
 - 👯 I’m looking to collaborate on anyone who is interested in machine learning & Deep Learning
 - 📫 How to reach me: rediate03@gmail.com, jihoahn9303@naver.com
+- 🦾 Notion: https://anzzang-lab.oopy.io/
 - ⚡ Hobby : Watch movies in Netfilx, play overwatch/Apex/Valorant, Go to EDM Festival, Running with my family
 - ⚡ Funny things : I dropped my overwatch grand master rank to diamond in just one month (4100 -> 3200) ......
 
