@@ -51,7 +51,7 @@
 
 [[Python] Research: ISCLRec(Item Substitution Contrastive Learning Recommendation)](https://github.com/jihoahn9303/lSCLRec)
 
-[[Python] Concept for Machine Learning](https://github.com/jihoahn9303/Machine_Learning)
+[[Python] Project: Serving ML Model with FastAPI](https://github.com/jihoahn9303/fastapi-model-serving) 
 
 
 
