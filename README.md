@@ -39,6 +39,12 @@
 
 ### Contains :
 
+[[Python] Project: Serving ML Model with FastAPI](https://github.com/jihoahn9303/fastapi-model-serving) 
+
+[[Python] Study&Project: Making LLM Application using Langchain](https://github.com/jihoahn9303/Langchain)
+
+[[Python] Research: ISCLRec(Item Substitution Contrastive Learning Recommendation)](https://github.com/jihoahn9303/lSCLRec)
+
 [[Python] Project: Vision end-to-end](https://github.com/jihoahn9303/Vision_end_to_end)
 
 [[Python] Project: FNCSP Consulting Platfrom](https://github.com/jihoahn9303/FNCSP_Consulting_Platform)
@@ -48,13 +54,6 @@
 [[Python] Project: Kaggle - Home Credit Default Risk](https://github.com/jihoahn9303/home-credit-default-risk)
 
 [[Kotlin/Python] Project: Construct SmartCafe](https://github.com/jihoahn9303/GraduationProject)
-
-[[Python] Research: ISCLRec(Item Substitution Contrastive Learning Recommendation)](https://github.com/jihoahn9303/lSCLRec)
-
-[[Python] Project: Serving ML Model with FastAPI](https://github.com/jihoahn9303/fastapi-model-serving) 
-
-
-
 
 
 
