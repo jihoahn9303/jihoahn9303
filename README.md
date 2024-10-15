@@ -39,6 +39,8 @@
 
 ### Contains :
 
+[[Python] Project: Comment Generator with Gradio + FastAPI(https://github.com/jihoahn9303/Comment-generator)
+
 [[Python] Project: Serving ML Model with FastAPI](https://github.com/jihoahn9303/fastapi-model-serving) 
 
 [[Python] Study&Project: Making LLM Application using Langchain](https://github.com/jihoahn9303/Langchain)
@@ -50,8 +52,6 @@
 [[Python] Project: FNCSP Consulting Platfrom](https://github.com/jihoahn9303/FNCSP_Consulting_Platform)
 
 [[Python] Project: Semantic Human Matting](https://github.com/jihoahn9303/Semantic_Human_Matting_Project)
-
-[[Python] Project: Kaggle - Home Credit Default Risk](https://github.com/jihoahn9303/home-credit-default-risk)
 
 [[Kotlin/Python] Project: Construct SmartCafe](https://github.com/jihoahn9303/GraduationProject)
 
