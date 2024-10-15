@@ -39,7 +39,7 @@
 
 ### Contains :
 
-[[Python] Project: Comment Generator with Gradio + FastAPI(https://github.com/jihoahn9303/Comment-generator)
+[[Python] Project: Comment Generator with Gradio + FastAPI](https://github.com/jihoahn9303/Comment-generator)
 
 [[Python] Project: Serving ML Model with FastAPI](https://github.com/jihoahn9303/fastapi-model-serving) 
 
